@@ -95,6 +95,11 @@ dataSource:
     username: sa
     password: ''
 
+giantBomb:
+    apiKey: 42613e6f81a3747a5f0220586588cae83ae76f95
+    url: https://www.giantbomb.com
+    searchFields: name
+
 environments:
     development:
         dataSource:
